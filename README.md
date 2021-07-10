@@ -13,7 +13,7 @@
 
 <p align="center">
  <a href="#" alt="Ali Khancherli's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali412&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alikhancherli&theme=tokyonight&show_icons=true" />
  </a>
 </p>
 <p align="center">
