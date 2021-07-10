@@ -13,8 +13,8 @@
 
 <p align="center">
  <a href="#" alt="Ali Khancherli's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=alikhancherli&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alikhancherli&show_icons=false&count_private=true&include_all_commits=true&bg_color=30,0B486B,f56217&title_color=fff&text_color=fff" />
  </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali412&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ali khancherli" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhancherli&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" alt="ali khancherli" /></p>
